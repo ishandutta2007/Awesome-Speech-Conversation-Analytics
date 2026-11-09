@@ -118,7 +118,7 @@ Self-hosted, privacy-first, community-driven speech recognition, speaker diariza
 
 ### ⭐ Open-Source Software Matrix (Ranked by Stars)
 
-| Repository | GitHub Stars Badge | Primary Role | Core Stack | License | Key Capabilities |
+| Repository | GitHub_Stars_Badge | Primary Role | Core Stack | License | Key Capabilities |
 |:---|:---:|:---|:---|:---|:---|
 | **[OpenAI Whisper](https://github.com/openai/whisper)** | [![Stars](https://img.shields.io/github/stars/openai/whisper?style=social&color=white)](https://github.com/openai/whisper/stargazers) | 🎙️ Foundation ASR Engine | Python / PyTorch | MIT | Industry-standard speech-to-text model trained on 680,000 hours of multilingual audio. |
 | **[whisper.cpp](https://github.com/ggerganov/whisper.cpp)** | [![Stars](https://img.shields.io/github/stars/ggerganov/whisper.cpp?style=social&color=white)](https://github.com/ggerganov/whisper.cpp/stargazers) | ⚡ High-Performance On-Device ASR | C / C++ | MIT | High-performance C/C++ port with zero dependencies, Apple Silicon Metal, and CPU acceleration. |
@@ -254,7 +254,7 @@ Contributions to expand and refine this curated index are warmly welcomed! 🌟
    - Tool Name and link
    - Category (SaaS or Open Source)
    - Specific pricing model and free-tier/trial limitations
-   - Open-source GitHub repository link with valid star count badge
+   - Open-source GitHub repository link with valid Stars_Count badge
 4. 🚀 **Commit your changes** (`git commit -m "feat: add new speech analytics tool"`).
 5. 📬 **Submit a Pull Request** with a concise description of the software.
 
